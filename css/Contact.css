@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    color: white;
+    background-color: black;
+    height:8vh;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+div{
+    background-color: yellow;
+    height: 20vh;
+    margin-top: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 2rem;
+    box-shadow: 12px 12px 10px 1px rgba(0, 0, 0, 0.363);
+}
+p{
+    font-size: 1.5rem;
+}
